@@ -8,7 +8,7 @@
 	<name>spring-mvc2 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<mvc.version>4.3.27.RELEASE</mvc.version>
+		<mvc.version>5.2.20.RELEASE</mvc.version>
 		<mysql.version>5.1.1</mysql.version>
 		<jdk.version>1.8</jdk.version>
 		<jstl.version>1.2</jstl.version>
